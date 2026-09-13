@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dados-pt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "dados.gov.pt MCP — Portugal's national open data portal.",
   "type": "module",
   "main": "src/index.ts",
