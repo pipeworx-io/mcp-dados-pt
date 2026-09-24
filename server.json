@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/dados-pt",
   "title": "Dados Pt",
   "description": "dados.gov.pt MCP — Portugal's national open data portal.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/dados-pt",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-dados-pt",
