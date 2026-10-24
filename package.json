@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dados-pt",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "dados.gov.pt MCP — Portugal's national open data portal.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-56029e4e91dd8de954ea20865345d104c533464c53d3f2247608b91f2e7c2ac0",
-    "sourceCommit": "b0a4b8e2f3f5b3a4c3f9f2c9a73f91b20d32ce11"
+    "sourceHash": "v1-d117c1c2008eead415ab50a59cd7c6c21d333d8bf9d29f814ba78f6b4f1f7ce8",
+    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
   }
 }
